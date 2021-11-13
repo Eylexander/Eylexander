@@ -1,16 +1,22 @@
-### Hi there 👋
+## Eylexander
 
-<!--
-**Eylexander/Eylexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there, I like programming in my free time
 
-Here are some ideas to get you started:
+📗 I'm still learning about JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗨️ You can contact me [on discord](https://discord.com/users/344526513577918477 "DM me !") if you need!
+
+## Technologies & Tools
+
+![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a)
+![Editor](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Editor&logoColor=white&color=2bbc8a)
+
+![Code](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+
+![Database](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=Databases&logoColor=white&color=2bbc8a)
+
+## Stats
+
+![Eylexander Github Stats](https://github-readme-stats.vercel.app/api?username=Eylexander&show_icons=true&theme=github_dark)
