@@ -1,6 +1,6 @@
 ## Eylexander
 
-👋 Hello there, feel free to visit my [website](http://eylexanders.ddns.net "Shitty dns, I know")!
+👋 Hello there, feel free to visit my [website](https://eylexander.xyz)!
 
 🗨️ You can contact me [on discord](https://discord.com/users/344526513577918477 "DM me !") if you need!
 
